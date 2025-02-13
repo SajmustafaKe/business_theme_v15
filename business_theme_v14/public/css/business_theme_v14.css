@@ -23,7 +23,7 @@
     background-color: var(--bg-color)
 }
 .modal-backdrop{
-    background-color: #1f8179 !important;
+    background-color: #004f73 !important;
 }
 .widget .widget-head .widget-title {
     font-size: var(--text-base);
@@ -135,9 +135,9 @@ input:focus{
 
 /* Colours */
 :root {
-    --background-color: #1f8179;
+    --background-color: #004f73;
     --primary-color: #ff3700;
-    --secondary-color: #31b38c;
+    --secondary-color: #004f73;
     --white-color: #ffffff;
     --black-color: #000000;
     --gray-color: #8aa1a3;
@@ -157,7 +157,7 @@ input:focus{
     border-radius: 0 !important;
 }
 .btn-primary:hover{
-    background-color: rgba(227, 78, 33, 0.93) !important;
+    background-color: #b13339 !important;
 }
 /* .btn-secondary{
     background-color: #606060 !important;
@@ -334,4 +334,3 @@ symbol#icon-small-down{
 .filter-button span.filter-icon svg.icon{
     stroke: var(--white-color);
 } */
-
