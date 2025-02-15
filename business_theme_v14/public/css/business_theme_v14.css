@@ -23,7 +23,7 @@
     background-color: var(--bg-color)
 }
 .modal-backdrop{
-    background-color: #004f73a1 !important;
+    background-color: #c7f1effb !important;
 }
 .widget .widget-head .widget-title {
     font-size: var(--text-base);
@@ -56,14 +56,14 @@
     --bg-color: #f2f5fa;
     --text-bold: 600;
     --control-bg : #fff;
-    --control-bg-on-gray: #d4dcea;
+    --control-bg-on-gray: #c7f1effb;
     --disabled-control-bg: #f2f5fa;
     --heading-color: #004f73;
     --border-color:#e3e8f1;
     --avatar-frame-bg: #dde2ea;
     --margin-lg: 15px;
-    --sidebar-select-color: #d4dcea;
-    --awesomplete-hover-bg: #d4dcea;
+    --sidebar-select-color: #c7f1effb;
+    --awesomplete-hover-bg: #c7f1effb;
     --scroll-bg: #eef1f5;
     --scroll-color: #d9dfe6;
 }
@@ -135,9 +135,9 @@ input:focus{
 
 /* Colours */
 :root {
-    --background-color:#004f73a1;
+    --background-color:#c7f1effb;
     --primary-color: #ff3700;
-    --secondary-color: #004f73a1;
+    --secondary-color: #c7f1effb;
     --white-color: #ffffff;
     --black-color: #000000;
     --gray-color: #383737;
